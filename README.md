@@ -1,2 +1,2 @@
 # craftinter-robnys
-My notes and code while reading through Robert Nystrom's "Crafting Interpreters."
+This repository contains my notes and code while reading Robert Nystrom's "Crafting Interpreters."
